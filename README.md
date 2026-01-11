@@ -22,7 +22,7 @@ Customer segmentation is the process of grouping customers based on shared chara
 
 This dataset contains customer demographic, behavioral, and campaign response data, making it ideal for clustering and segmentation tasks.
 
----
+
 
 ### Tools & Libraries
 
