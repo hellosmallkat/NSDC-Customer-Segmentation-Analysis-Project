@@ -1,13 +1,11 @@
----
-
-# 🧩 Customer Segmentation Analysis
+#  Customer Segmentation Analysis
 
 **Unsupervised Machine Learning Project**
 
-Welcome! 👋
+Welcome! 
 This project focuses on **customer segmentation** using **unsupervised machine learning techniques** to help businesses better understand their customers and optimize marketing strategies.
 
-## 📖 About This Project
+## About This Project
 
 Customer segmentation is the process of grouping customers based on shared characteristics such as behavior, demographics, or spending patterns. These segments help marketing teams:
 
@@ -16,23 +14,21 @@ Customer segmentation is the process of grouping customers based on shared chara
 * Allocate resources more effectively
 
 
-## 📊 Dataset
+##  Dataset
 
 **Marketing Campaign Dataset (Kaggle)**
 
 This dataset contains customer demographic, behavioral, and campaign response data, making it ideal for clustering and segmentation tasks.
 
-
-
 ### Tools & Libraries
 
-* Python 🐍
+* Python 
 * Pandas & NumPy
 * Scikit-learn
 * Matplotlib & Seaborn
 * Jupyter Notebook / Google Colab
 
-## 🧭 Project Milestones
+## Project Milestones
 
 ### Milestone 1: Data Retrieval and Pre-Processing
 
