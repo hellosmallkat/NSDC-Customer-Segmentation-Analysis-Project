@@ -7,8 +7,6 @@
 Welcome! 👋
 This project focuses on **customer segmentation** using **unsupervised machine learning techniques** to help businesses better understand their customers and optimize marketing strategies.
 
----
-
 ## 📖 About This Project
 
 Customer segmentation is the process of grouping customers based on shared characteristics such as behavior, demographics, or spending patterns. These segments help marketing teams:
