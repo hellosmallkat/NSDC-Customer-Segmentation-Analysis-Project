@@ -16,8 +16,6 @@ Customer segmentation is the process of grouping customers based on shared chara
 * Allocate resources more effectively
 
 
----
-
 ## 📊 Dataset
 
 **Marketing Campaign Dataset (Kaggle)**
